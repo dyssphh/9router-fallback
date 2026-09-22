@@ -9,7 +9,7 @@ const PRIMARY_PROVIDERS = [
 ];
 
 const FALLBACK_PROVIDER = {
-  url: process.env.ROUTER_9_URL || 'https://api.9router.com/v1/chat/completions',
+  url: process.env.ROUTER_9_URL || 'https://r8tbf2p.abc-tunnel.us/v1',
   key: process.env.ROUTER_9_API_KEY
 };
 
